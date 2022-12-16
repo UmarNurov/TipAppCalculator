@@ -1,8 +1,4 @@
 # Tip Calculator
-This is more enhanced Tip Calculator with new features
-
-# Author: Meerbek Akimzhanov
-
 This my Tip Calculator project in made by java and javaFX
 
 This project was made under Object - Oriented Course; Topic Java Fx;
